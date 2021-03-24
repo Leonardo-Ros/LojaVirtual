@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "843899275551",
+    "project_id": "loja-virtual-6dfd6",
+    "storage_bucket": "loja-virtual-6dfd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843899275551:android:516f2d3aac809fd446882a",
+        "android_client_info": {
+          "package_name": "com.leo.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843899275551-52ssiib8tsdqkngm6ajpechljqhr7j47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leo.lojavirtual",
+            "certificate_hash": "0c15ae5862d2f2676d89952271727837fe9659ec"
+          }
+        },
+        {
+          "client_id": "843899275551-v1o27e9g4474bvfkrl11ior27gkitpkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2UQkdwPG_s7UqtRlTPF6crbmcy2VZqTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843899275551-v1o27e9g4474bvfkrl11ior27gkitpkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
